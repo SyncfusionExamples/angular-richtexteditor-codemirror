@@ -1,5 +1,6 @@
-# angular-richtexteditor-codemirror
-An example demonstration of the EJ2 Angular Rich Text Editor with the Code Mirror.
+# Angular Rich Text Editor — Code Mirror Sample
+
+This repository is a minimal Angular sample showing integration of Code Mirror with the EJ2 Angular Rich Text Editor.
 
 ## Quick start
 
